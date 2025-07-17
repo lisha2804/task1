@@ -8,7 +8,8 @@ A responsive homepage for a home decor store built with HTML and CSS.
 
 # Live Demo
 
-
+ https://lisha2804.github.io/task1/
+ 
 ---
 
 # Screenshots
